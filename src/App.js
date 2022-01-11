@@ -5,7 +5,6 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import NotFoundRedirect from "./components/NotFoundRedirect";
-import NotFound from "./components/NotFound";
 function Navbar() {
   return (
     <div>
@@ -24,7 +23,6 @@ function App() {
         <Route path="/" component={Home} exact />
         <Route path="/about" component={About} />
         <Route path="/something/that/should/work" component={Contact} />
-        <Route path="/not-found" component={NotFound} />
         <Route component={NotFoundRedirect} />
       </Switch>
     </main>
