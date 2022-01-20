@@ -1,0 +1,9 @@
+{
+  "function": {
+    "reactroutesamplifyb003acb0": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
