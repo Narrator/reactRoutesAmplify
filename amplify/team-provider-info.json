@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "PermissionsBoundaryPolicyArn": "arn:aws:iam::357128036178:policy/Permission-Boundary-Amplify-Lockeddown",
+      "AuthRoleName": "amplify-reactroutesamplify-dev-222048-authRole",
+      "UnauthRoleArn": "arn:aws:iam::357128036178:role/amplify-reactroutesamplify-dev-222048-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::357128036178:role/amplify-reactroutesamplify-dev-222048-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-reactroutesamplify-dev-222048-deployment",
+      "UnauthRoleName": "amplify-reactroutesamplify-dev-222048-unauthRole",
+      "StackName": "amplify-reactroutesamplify-dev-222048",
+      "StackId": "arn:aws:cloudformation:us-west-2:357128036178:stack/amplify-reactroutesamplify-dev-222048/f27d8c00-7da6-11ec-b084-025f885d37f1",
+      "AmplifyAppId": "d1e5vjmypsopj9"
+    }
+  }
+}
