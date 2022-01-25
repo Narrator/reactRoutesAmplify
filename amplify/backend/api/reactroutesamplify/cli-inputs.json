@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactroutesamplify",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/kgnanask/sandbox/reactRoutesAmplify/amplify/backend/api/reactroutesamplify/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
