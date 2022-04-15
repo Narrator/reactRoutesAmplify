@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamoe76bd731",
+  "tableName": "dynamoe76bd731",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
