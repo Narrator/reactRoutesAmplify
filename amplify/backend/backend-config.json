@@ -68,6 +68,12 @@
     "dynamoe76bd731": {
       "service": "DynamoDB",
       "providerPlugin": "awscloudformation"
+    },
+    "kaushiktest": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
     }
   }
 }

@@ -20,6 +20,15 @@
           "deploymentBucketName": "amplify-reactroutesamplify-dev-121031-deployment",
           "s3Key": "amplify-builds/reactroutesamplifyf1ca42c6-424571505041732f3241-build.zip"
         }
+      },
+      "storage": {
+        "kaushiktest": {
+          "tableName": "kaushik-test",
+          "region": "us-east-1",
+          "arn": "arn:aws:dynamodb:us-east-1:521036817628:table/kaushik-test",
+          "partitionKeyName": "id",
+          "partitionKeyType": "S"
+        }
       }
     }
   }
