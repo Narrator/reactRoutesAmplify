@@ -1,0 +1,1 @@
+for d in ./amplify/backend/function/*/; do echo $d"src"; cp -r "./amplify/common/opt" $d"src"; done
